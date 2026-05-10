@@ -23,9 +23,11 @@ Issue: Claude Code and Codex not found in the marketplace
 
 How I Solved It: Searched online and found a way to download extensions manually as .vsix files
 
+
 Issue: Didn't know how to install .vsix files
 
 How I Solved It: Asked Claude and learned about the Install from VSIX command
+
 
 Issue: Extensions not visible after install
 
