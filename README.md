@@ -18,6 +18,7 @@ Moved the extension files into my working folder as required, and Cursor complet
 Reloaded the Cursor window to confirm the extensions were active.
 
 Issues Encountered & How I Solved Them
+
 Issue: Claude Code and Codex not found in the marketplace
 How I Solved It: Searched online and found a way to download extensions manually as .vsix files
 
